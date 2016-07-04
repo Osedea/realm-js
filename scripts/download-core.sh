@@ -4,7 +4,7 @@ set -e
 set -o pipefail
 
 # Set to "latest" for the latest build.
-: ${REALM_CORE_VERSION:=1.1.2}
+: ${REALM_CORE_VERSION:=1.0.1}
 
 if [ "$1" = '--version' ]; then
     echo "$REALM_CORE_VERSION"
