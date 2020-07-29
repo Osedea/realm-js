@@ -53,7 +53,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^6.0.4",
-    "eslint": "^2.10.2",
+    "eslint": "^7.5.0",
     "eslint-plugin-react": "^5.1.1",
     "jsdoc": "^3.4.0",
     "mockery": "^1.7.0",
